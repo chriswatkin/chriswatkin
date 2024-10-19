@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @chriswatkin.
+- I'm Associate Professor of French and Francophone Studies at Monash University, Melbourne, Australia.
+- I write books on modern European Philosophy and Christian theology. You can find out about them here: https://christopherwatkin.com/mybooks/
+- You can find out more about me on christopherwatkin.com, and on X @DrChrisWatkin. 
+- I'm not very good at coding so you won't find anything brilliant here, but I'm sharing the little things I've made that have helped me in my work as an academic, in the hope that they might help others too.
+- Also, I don't have a lot of time to spend here, so apologies in advance if it takes me a whole to get back to you.
